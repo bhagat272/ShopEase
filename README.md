@@ -10,7 +10,7 @@
 
 2. Navigate to the project directory:
    ```terminal
-   cd my-app
+   cd ReactNativeApp
    ```
 
 3. Install the necessary dependencies:
