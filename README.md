@@ -1,5 +1,5 @@
  
-# E-CommerceApp
+# ShopEase : E-CommerceApp
 
 ### Steps to Clone and Run the Project:
 
