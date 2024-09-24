@@ -23,7 +23,7 @@
    npm start
    ```
 
-5. Download the Expo Go app from the Play Store.
+5. Download the app from https://drive.google.com/file/d/103xouEhZB-J0D59h-auf-5E3zJOhLrTK/view?usp=drive_link.
 
 6. Scan the QR code provided by Expo using the Expo Go app.
 
