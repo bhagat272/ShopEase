@@ -28,6 +28,10 @@
 6. Scan the QR code provided by Expo using the Expo Go app.
 
 7. You should now be able to see and interact with the app on your device.
+8. Test App Live!
+Experience it now on https://appetize.io/app/b_4ltivi23xorxdf3e4gtjpygebe.
+
+
 
 ---  
 
